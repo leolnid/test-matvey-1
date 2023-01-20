@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Молоко \"Домик в деревне\"",
+        "img": "./img/products/milk.jpg",
+        "description": "Классное молоко",
+        "price": 151
+    },
+    {
+        "name": "Хлеб \"Домик в деревне\"",
+        "img": "./img/products/bread.png",
+        "description": "Классный хлеб",
+        "price": 99
+    },
+    {
+        "name": "Сыр \"Домик в деревне\"",
+        "img": "./img/products/ceese.jpg",
+        "description": "Классный сыр",
+        "price": 199
+    }
+]
