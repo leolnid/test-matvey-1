@@ -6,15 +6,27 @@
         "price": 151
     },
     {
-        "name": "Хлеб \"Домик в деревне\"",
+        "name": "Хлеб \"Бородино\"",
         "img": "./img/products/bread.png",
         "description": "Классный хлеб",
         "price": 99
     },
     {
-        "name": "Сыр \"Домик в деревне\"",
+        "name": "Сыр \"Российский\"",
         "img": "./img/products/ceese.jpg",
         "description": "Классный сыр",
         "price": 215
+    },
+    {
+        "name": "Сыр \"Король артур\"",
+        "img": "./img/products/ceese.jpg",
+        "description": "Классический",
+        "price": 216
+    },
+    {
+        "name": "Сыр \"ПроРоссийский\"",
+        "img": "./img/products/ceese.jpg",
+        "description": "СЫР",
+        "price": 217
     }
 ]
