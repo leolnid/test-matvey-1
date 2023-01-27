@@ -13,7 +13,13 @@ function getQ() {
 }
 
 async function loadProducts() {
-    const result = await fetch('./products.json');
+    const result = await fetch('./products.json', {
+        method: 'GET',
+        mode: 'cors',
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      });
     const data = await result.json();
     console.log(data)
     const q = getQ();
